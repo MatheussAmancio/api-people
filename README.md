@@ -42,5 +42,14 @@ o ciclo de vida da aplicação:
 
 Toda a documentação de endpoints e payloads estão mapeadas e documentadas no swagger.
 
+## Questões do teste
+### 1. Durante a implementação de uma nova funcionalidade de software solicitada, quais critérios você avalia e implementa para garantia de qualidade de software?
+Para implementar uma nova funcionalidade, alguns pontos devem ser levados em conta. Partindo do entendimento da demanda com negócios, garantindo que não haja nenhuma pendencia/dúvida de negócios e apenas atuação técnica.
+Tendo isso mapeado o próximo passo é refinar preferencialmente em time, toda a parte técnica, mapeando os pontos de atuação, possíveis problemas que surgirão e cenários de testes que devem ser cobertos.
+Feito o refinamento, podemos seguir com a implementação, pensando sempre em um código limpo, seguro e escalável, nesse momento os testes unitários e se possível integrados, garantirão que a nova funcionalidade funcione como esperado, e não causa nenhum problema no fluxo atual da aplicação.
+
+### 2.	Em qual etapa da implementação você considera a qualidade de software?
+A qualidade do software é algo a ser pensado desde o inicio da implementação, isso não descarta a possibilidade de futuras refatorações, mas o ideal é que toda a implementação seja feita seguindo alguns padrões de qualidade, pensando na qualidade e clareza do código, além da segurança e da escalabilidade dele.
+
 ## Agradeço a oportunidade
 ### Fico à disposição.
